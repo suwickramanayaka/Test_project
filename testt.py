@@ -7,4 +7,5 @@ if __name__ == '__main__':
 
     test = Test()
     test.get_name("Yasas")
+	test.get_name("Sithum")
 
